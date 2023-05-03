@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RachitKaushik
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Angular.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 8057501058
 
